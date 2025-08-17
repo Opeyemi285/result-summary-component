@@ -3,6 +3,9 @@
 }
 body {
     font-family: 'Hanken Grotesk', sans-serif;
+    display: flex;
+    justify-content: center;
+    aign-items: center;
 }
 .container p {
     font-size: 18px;
@@ -110,4 +113,5 @@ div.attribution a {
     }
 
 }
+
 
