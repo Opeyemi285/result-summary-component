@@ -94,7 +94,7 @@ div.attribution a {
 }
 
 /* Media Queries */
-@media (max-width: 700px) {
+@media (max-width: 600px) {
     body {
         flex-direction: column;
         overflow-x: hidden;
@@ -113,5 +113,6 @@ div.attribution a {
     }
 
 }
+
 
 
